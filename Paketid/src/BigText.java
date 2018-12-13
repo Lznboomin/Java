@@ -1,6 +1,6 @@
 public class BigText {
     public static void main(String[] args) {
-        String smallText = "aaa";
+        String smallText = "aaaaaaa";
 
         for (int row = 0; row < 5; row++) {
             for (int i = 0; i < smallText.length(); i++) {
